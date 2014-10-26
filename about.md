@@ -8,7 +8,7 @@ image:
 share: true
 ---
 
-Hi. I'm, Alex Spurrier ([alspur](http://twitter.com/alspur)), an education policy and data expert living and working in [Branford, Connecticut](http://en.wikipedia.org/wiki/Branford,_Connecticut). 
+Hi. I'm Alex Spurrier, an education policy and data expert living and working in [Branford, Connecticut](http://en.wikipedia.org/wiki/Branford,_Connecticut). 
 
 My academic background is in [economics](http://bethel.edu) and [public policy](http://trincoll.edu). Professionally, I've been a [classroom teacher](http://teachforamerica.org), an [advocate for policy change](http://conncan.org), and a [data and policy analyst](http://tntp.org).[^1] 
 
