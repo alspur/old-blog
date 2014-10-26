@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">alspur</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://alspur.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://alspur.github.io" />
+<updated>2014-10-24T14:25:20-04:00</updated>
+<id>http://alspur.github.io/</id>
+<author>
+  <name>Alex Spurrier</name>
+  <uri>http://alspur.github.io/</uri>
+  <email>alex.spurrier@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Syntax Highlighting Post]]></title>
+ <link rel="alternate" type="text/html" href="http://alspur.github.io/intropost/" />
+  <id>http://alspur.github.io/intropost</id>
+  <updated>2013-08-20T00:00:00-00:00</updated>
+  <published>2014-10-24T00:00:00-04:00</published>
+  
+  <author>
+    <name>Alex Spurrier</name>
+    <uri>http://alspur.github.io</uri>
+    <email>alex.spurrier@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;This is placeholder content.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://alspur.github.io/intropost/&quot;&gt;Syntax Highlighting Post&lt;/a&gt; was originally published by Alex Spurrier at &lt;a href=&quot;http://alspur.github.io&quot;&gt;alspur&lt;/a&gt; on October 24, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>

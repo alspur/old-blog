@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://alspur.github.io</loc>
+    </url>
+    
+    
+    <url>
+        <loc>http://alspur.github.io/404.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://alspur.github.io/about/</loc>
+    </url>
+    
+    <url>
+        <loc>http://alspur.github.io/feed.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://alspur.github.io/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://alspur.github.io/posts/</loc>
+    </url>
+    
+    <url>
+        <loc>http://alspur.github.io/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://alspur.github.io/tags/</loc>
+    </url>
+    
+    <url>
+        <loc>http://alspur.github.io/theme-setup/</loc>
+    </url>
+    
+
+    
+    <url>
+        <loc>http://alspur.github.io/intropost/</loc>
+    </url>
+    
+</urlset>
