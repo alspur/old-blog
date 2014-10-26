@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http:/blog.alspur.com</loc>
+        <loc>http:/alspur.github.io</loc>
     </url>
     
     
     <url>
-        <loc>http:/blog.alspur.com/404.html</loc>
+        <loc>http:/alspur.github.io/404.html</loc>
     </url>
     
     <url>
-        <loc>http:/blog.alspur.com/about/</loc>
+        <loc>http:/alspur.github.io/about/</loc>
     </url>
     
     <url>
-        <loc>http:/blog.alspur.com/feed.xml</loc>
+        <loc>http:/alspur.github.io/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http:/blog.alspur.com/index.html</loc>
+        <loc>http:/alspur.github.io/index.html</loc>
     </url>
     
     <url>
-        <loc>http:/blog.alspur.com/posts/</loc>
+        <loc>http:/alspur.github.io/posts/</loc>
     </url>
     
     <url>
-        <loc>http:/blog.alspur.com/sitemap.xml</loc>
+        <loc>http:/alspur.github.io/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http:/blog.alspur.com/tags/</loc>
+        <loc>http:/alspur.github.io/tags/</loc>
     </url>
     
     <url>
-        <loc>http:/blog.alspur.com/theme-setup/</loc>
+        <loc>http:/alspur.github.io/theme-setup/</loc>
     </url>
     
 
     
     <url>
-        <loc>http:/blog.alspur.com/intropost/</loc>
+        <loc>http:/alspur.github.io/intropost/</loc>
     </url>
     
 </urlset>
