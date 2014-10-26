@@ -14,5 +14,6 @@ My academic background is in [economics](http://bethel.edu) and [public policy](
 
 I spend my free time enjoying life with my wife (Samantha) and dog (Bailey) and coaching youth lacrosse. I also train for and particpate in [GORUCK Events](http://www.goruck.com/en/events).
 
+---
 
 [^1]:Disclaimer: The views expressed on this blog are mine alone and may not reflect the views of organizations I've worked for. 
