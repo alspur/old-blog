@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/alspur.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/alspur.github.io" />
-<updated>2014-10-26T09:54:11-04:00</updated>
+<updated>2014-10-28T08:11:12-04:00</updated>
 <id>http:/alspur.github.io/</id>
 <author>
   <name>Alex Spurrier</name>
@@ -15,19 +15,53 @@
 
 <entry>
   <title type="html"><![CDATA[What's the problem with school finance in Connecticut?]]></title>
- <link rel="alternate" type="text/html" href="http:/alspur.github.io/intropost/" />
-  <id>http:/alspur.github.io/intropost</id>
-  <updated>2013-08-20T00:00:00-00:00</updated>
-  <published>2014-10-24T00:00:00-04:00</published>
+ <link rel="alternate" type="text/html" href="http:/alspur.github.io/whatstheproblemwithctschoolfinance/" />
+  <id>http:/alspur.github.io/whatstheproblemwithctschoolfinance</id>
+  <updated>2013-08-28T00:00:00-00:00</updated>
+  <published>2014-10-28T00:00:00-04:00</published>
   
   <author>
     <name>Alex Spurrier</name>
     <uri>http:/alspur.github.io</uri>
     <email>alex.spurrier@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;This is placeholder content.&lt;/p&gt;
+  <content type="html">&lt;p&gt;School finance in Connecticut is broken. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http:/alspur.github.io/intropost/&quot;&gt;What's the problem with school finance in Connecticut?&lt;/a&gt; was originally published by Alex Spurrier at &lt;a href=&quot;http:/alspur.github.io&quot;&gt;alspur&lt;/a&gt; on October 24, 2014.&lt;/p&gt;</content>
+&lt;p&gt;The state’s main vehicle of support to public schools, the Education Cost Sharing (ECS) grant, sends $2 billion to local districts each year with the goal of equalizing the ability of communities to fund public education. Unfortunately, years of legislative tinkering with the ECS formula left Connecticut with &lt;a href=&quot;ecsformula&quot;&gt;a Byzantine approach to funding schools that takes more than 16 pages to explain&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;On top of this labyrinthine system, non-traditional public schools (including magnet, charter, vocational/technical, and agriscience schools) &lt;a href=&quot;ecstaskforce&quot;&gt;are funded under entirely separate mechanisms&lt;/a&gt;. In practice, this means that one student could have their education funded up to ten different ways&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;This approach makes the bulk of Connecticut’s education aid unresponsive to the changing needs of communities and families across our state.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In the wake of &lt;a href=&quot;tax&quot;&gt;the largest tax increase in state history&lt;/a&gt; and with &lt;a href=&quot;ctatrisk&quot;&gt;major financial challenges looming&lt;/a&gt;, it’s not likely that our state will simply be able to address this problem with a significant cash infusion. &lt;strong&gt;We need to make difficult choices to improve how Connecticut allocates scarce resources for public education.&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p&gt;In the state with &lt;a href=&quot;achievementgap&quot;&gt;the largest achievement gap in the nation&lt;/a&gt;, we need a better way to provide a high-quality public education to every child. I believe that a more equitable and responsive school finance system is an necessary mechanism to achieve that goal. &lt;/p&gt;
+
+&lt;p&gt;It won’t be easy changing the status quo in &lt;a href=&quot;steadyhabits&quot;&gt;the land of steady habits&lt;/a&gt;, but I’m going to do my part to move the conversation in a productive direction. In this space, I plan on:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Detailing the challenges and competing priorities involved in school finance reform.&lt;/li&gt;
+  &lt;li&gt;Proposing policy approaches that take into account the educational challenges and fiscal realities facing our state.&lt;/li&gt;
+  &lt;li&gt;Transparent analyses of school finance and demographic data. When possible, all code and data will be available on &lt;a href=&quot;github&quot;&gt;my GitHub page&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Connecticut’s school finance system is broken. We need to fix it my making some tough policy choices.&lt;/p&gt;
+
+&lt;p&gt;Let’s get to work.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;The ten ways of funding public school students in Connecticut include the ECS formula and the nine streams of choice funding found on p. 9  of the &lt;a href=&quot;http://www.cga.ct.gov/ed/CostSharing/Documents/2013/ECS%20TASK%20FORCE%20Final%20Report%201-23-13.pdf&quot;&gt;&lt;em&gt;ECS Task Force’s Final Report&lt;/em&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http:/alspur.github.io/whatstheproblemwithctschoolfinance/&quot;&gt;What's the problem with school finance in Connecticut?&lt;/a&gt; was originally published by Alex Spurrier at &lt;a href=&quot;http:/alspur.github.io&quot;&gt;alspur&lt;/a&gt; on October 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
