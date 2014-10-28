@@ -3,7 +3,7 @@ layout: post
 title: What's the problem with school finance in Connecticut?
 description: "School finance in Connecticut is broken."
 modified: 2013-08-28
-tags: [school finance,  ecs]
+tags: [education policy, school finance,  ecs]
 image:
   feature: beach.jpg
 comments: true
