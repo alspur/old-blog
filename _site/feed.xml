@@ -4,13 +4,270 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://alspur.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://alspur.github.io" />
-<updated>2014-10-28T10:42:22-04:00</updated>
+<updated>2014-11-29T10:25:33-05:00</updated>
 <id>http://alspur.github.io/</id>
 <author>
   <name>Alex Spurrier</name>
   <uri>http://alspur.github.io/</uri>
   <email>alex.spurrier@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[A Thought Experiment]]></title>
+ <link rel="alternate" type="text/html" href="http://alspur.github.io/2014/11/29/athoughexperiment.html" />
+  <id>http://alspur.github.io/2014/11/29/athoughtexperiment</id>
+  <updated>2014-11-29T00:00:00-00:00</updated>
+  <published>2014-11-29T00:00:00-05:00</published>
+  
+  <author>
+    <name>Alex Spurrier</name>
+    <uri>http://alspur.github.io</uri>
+    <email>alex.spurrier@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;What would happen if we actually followed the ECS formula?&lt;/p&gt;
+
+&lt;p&gt;There are two significant flaws in Connecticut’s current school funding formula, known as ECS (Education Cost Sharing):&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It does not reflect the actual needs of towns and students.&lt;/li&gt;
+  &lt;li&gt;It does not treat the thousands of students accessing school choice equitably.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I plan on addressing those concerns in subsequent posts, but for a moment, let’s take ECS at face value and assume that the underpinnings of the formula are correct. If political processes had not brought Connecticut off of the ECS formula and we distributed current funding according to the formula, how might that change how dollars flow to towns?&lt;/p&gt;
+
+&lt;p&gt;Right now, the ECS formula is somewhere around $650 million under-funded. That is to say, the legislature and governor have not found a way to follow the ECS formula as it was originally intended to operate. In lieu of actually following the formula, the money that flows from the state to towns to school districts has been manipulated by politicians each legislative session since the ECS formula was adopted.&lt;/p&gt;
+
+&lt;p&gt;What would happen if our elected representatives followed the distributive principles of the ECS formula, so that if the state could only contribute 80% of what the formula dictates, each town would receive 80% of what the ECS formula dictates they should receive?&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Let’s figure it out!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In fiscal year 2015 (FY15), ECS was about 75% funded, meaning that the state is paying about three quarters to the dollar of what the ECS formula actually dictates. &lt;/p&gt;
+
+&lt;p&gt;You’ll be &lt;a href=&quot;https://www.youtube.com/watch?v=SjbPi00k_ME&quot;&gt;shocked, shocked to learn&lt;/a&gt; that some towns are earning more than 75% of their ECS entitlement, while other earn less!&lt;/p&gt;
+
+&lt;p&gt;Which towns are doing better/worse than they should be doing if current dollars were distributed based on the ECS formula? &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/alspur/ecstargets/master/figures/ecsDiff.png&quot; alt=&quot;absdiff&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Which towns are benefiting from the current flow of ECS funding?&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Town&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Adj. FY15 Over-funding&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Hartford*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+$21,489,136&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Bridgeport*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+$19,716,791&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;New Haven*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+$18,926,723&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Naugatuck*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+$4,757,282&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Meriden*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+$4,352,828&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Groton&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+$4,183,143&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Colchester&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+$3,355,802&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Wolcott&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+$3,339,954&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Norwich*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+$3,217,643&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ledyard&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+$2,969,683&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Unsurprisingly, the biggest beneficiaries of the current distribution of ECS dollars tend to be &lt;a href=&quot;http://www.sde.ct.gov/sde/cwp/view.asp?a=2683&amp;amp;Q=334226&quot;&gt;Alliance Districts&lt;/a&gt;, a collection of 30 low-performing districts the Malloy administration placed a priority on supporting with additional funding (identified in the table with a *).&lt;/p&gt;
+
+&lt;p&gt;Twelve towns are under-funded by at least $5 million according to the current ECS formula. West Hartford falls $20 million short. Danbury is $17 million short and Milford is more than $11 million under-funded:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Town&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Adj. FY15 Under-funding&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;West Hartford&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;- $20,029,204&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Danbury*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-$17,489,274&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Milford&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-$11,180,390&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Norwalk*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-$9,681,090&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Stratford&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-$8,680,338&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Shelton&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-$6,910,435&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Branford&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-$6,389,163&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Wethersfield&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-$6,246,413&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Middletown*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-$5,983,252&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Southbury&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-$5,557,434&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Hamden*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-$5,269,591&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Stamford*&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-$5,263,781&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;It’s surprising to see five Alliance Districts on this list (again, identified with a *). The combined under-funding of these five districts (Danbury, Norwalk, Middletown, Hamden, and Stamford) is about $43 million, which is less than the $60 million over-funding of the big three cities (Bridgeport, Hartford, and New Haven). &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Looking at raw dollar differences is helpful, but Connecticut is a state with a few large towns and many medium and small towns. Let’s compare what towns receive now as a percentage of what they &lt;em&gt;ought to receive if we followed the ECS formula with current appropriations&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/alspur/ecstargets/master/figures/ecsPctDiff.png&quot; alt=&quot;pctDiffECS&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now we’re able to see which towns are really benefitting from the current flow of ECS funding. There are 53 towns in Connecticut that receive about 32% more ECS funding than they ought to, given the current level of total ECS appropriations. This includes affluent towns like Greenwich, Darien, Fairfield, Madison, and Westport. &lt;/p&gt;
+
+&lt;p&gt;Which towns get the short end of the stick? Well, there are a dozen towns that receive less than &lt;em&gt;half&lt;/em&gt; what they ought to receive under the ECS formula:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Town&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;FY15 Funding as % of Adj. FY15 Funding&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Branford&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;23.0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Woodbury&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30.7%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Farmington&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30.9%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Southbury&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;32.1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Orange&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;33.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Shelton&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;43.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;North Haven&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;44.5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Trumbull&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;44.5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Middlebury&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;45.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Rocky Hill&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;45.8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Westbrook&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;46.6%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;West Hartford&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;47.6%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The place I call home, Branford, gets less than a quarter on the dollar of what we &lt;em&gt;should&lt;/em&gt; be getting according to ECS with the current level of total funding distributed via the ECS grant. &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Again, &lt;em&gt;I don’t think the current ECS formula is correct&lt;/em&gt;,&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; but this thought experiment highlights the key challenges of reforming Connecticut’s school finance system if we kept total spending flat:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;The “big three” Alliance Districts are doing much better than other Alliance Districts.&lt;/strong&gt; Connecticut’s big three urban cities (Bridgeport, Hartford, and New Haven) are doing very well under the current flow of ECS dollars, which is in stark contrast to other high-needs towns that are significantly under-funded (Danbury, Norwalk, Middletown, Hamden, and Stamford). In order for the big three to gain funding, there needs to be either an increase in overall funding or adjustments to the ECS formula to more heavily weight for poverty. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;There are many (mostly affluent) towns that are receiving more than their fair share.&lt;/strong&gt; Many towns have already hit the ceiling on what they should be getting under a fully-funded ECS formula. Any funding reform that gives more weight to towns with high poverty would mean reduced funding for these towns.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Suburbs are getting a raw deal.&lt;/strong&gt; While there are some Alliance Districts that are relatively under-funded, the most disadvantaged towns are middle-class suburbs like Branford, Orange, and West Hartford. These are towns that should be pushing for immediate school finance reform, since they would stand to see the largest relative increase in funding, even with no new money added to the system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Instead of waiting for a court to compel the legislature to change ECS, leaders of middle-class towns and Alliance Districts should be working to develop an school finance “grand bargain” that could be implemented without significant additional revenue. This would likely need to include schools of choice (magnets, charters, etc.) along with some sort of regulatory relief to affluent towns that would stand to lose funding. &lt;/p&gt;
+
+&lt;p&gt;Will any leaders take on this challenge? &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;I’m using a set of ECS funding targets from a handout at the &lt;a href=&quot;http://www.cga.ct.gov/ed/CostSharing/taskforce.asp&quot;&gt;ECS Task Force&lt;/a&gt;, slightly edited to prevent any districts from receiving less ECS funding under a fully-funded ECS formula than they get right now. If/when more up-to-date figures become available, I’d be happy to update this post accordingly. All code used to generate charts/data in this post is &lt;a href=&quot;https://github.com/alspur/ecstargets&quot;&gt;available on my GitHub page&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;I would prefer a formula that included more recent wealth/population data and more weight for towns with highly concentrated poverty.  &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://alspur.github.io/2014/11/29/athoughexperiment.html&quot;&gt;A Thought Experiment&lt;/a&gt; was originally published by Alex Spurrier at &lt;a href=&quot;http://alspur.github.io&quot;&gt;alspur&lt;/a&gt; on November 29, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
